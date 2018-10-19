@@ -1,0 +1,1063 @@
+﻿Log file open, 10/19/18 11:25:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GunSafety
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.559868
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.332s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.19-15.25.52:326][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.19-15.25.52:327][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.19-15.25.52:352][  0]LogHAL: Display: Platform has ~ 16 GB [17128361984 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.19-15.25.52:353][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.19-15.25.52:353][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.19-15.25.52:357][  0]LogInit: Computer: SOC-SBABU-WR2
+[2018.10.19-15.25.52:357][  0]LogInit: User: Capstone
+[2018.10.19-15.25.52:357][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.19-15.25.52:357][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2018.10.19-15.25.52:357][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.10.19-15.25.52:357][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.19-15.25.52:357][  0]LogMemory: Process Physical Memory: 99.85 MB used, 99.85 MB peak
+[2018.10.19-15.25.52:357][  0]LogMemory: Process Virtual Memory: 91.01 MB used, 91.01 MB peak
+[2018.10.19-15.25.52:357][  0]LogMemory: Physical Memory: 3832.69 MB used,  12502.19 MB free, 16334.88 MB total
+[2018.10.19-15.25.52:357][  0]LogMemory: Virtual Memory: 509.30 MB used,  12502.19 MB free, 134217728.00 MB total
+[2018.10.19-15.25.52:607][  0]LogInit: Using OS detected language (en-US).
+[2018.10.19-15.25.52:607][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.19-15.25.52:609][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.19-15.25.53:031][  0]LogStreaming: Display: Took  0.423s to InitEngineTextLocalization.
+[2018.10.19-15.25.53:031][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.19-15.25.53:117][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.19-15.25.53:117][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.19-15.26.00:300][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.19-15.26.00:368][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.19-15.26.00:368][  0]LogD3D11RHI:       8079/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.19-15.26.00:425][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.19-15.26.00:425][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.19-15.26.00:425][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.19-15.26.00:432][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.19-15.26.00:433][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.19-15.26.00:433][  0]LogWindows: EnumDisplayDevices:
+[2018.10.19-15.26.00:433][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.19-15.26.00:433][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.19-15.26.00:433][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.19-15.26.00:434][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.19-15.26.00:434][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.19-15.26.00:434][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.19-15.26.00:434][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.10.19-15.26.00:434][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.10.19-15.26.00:434][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.19-15.26.00:493][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.19-15.26.00:516][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.19-15.26.00:599][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Intermediate/Shaders/WorkingDirectory/7340/).
+[2018.10.19-15.26.00:599][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Capstone/AppData/Local/Temp/UnrealShaderWorkingDir/B947815B444D3A675063868661DA9930/'.
+[2018.10.19-15.26.01:821][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.19-15.26.01:847][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.19-15.26.01:873][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.19-15.26.01:902][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.19-15.26.01:933][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.19-15.26.01:963][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.19-15.26.01:991][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.19-15.26.02:025][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.19-15.26.02:049][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.19-15.26.02:204][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.19-15.26.02:341][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.19-15.26.02:341][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.19-15.26.02:395][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.19-15.26.02:395][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.19-15.26.02:437][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.19-15.26.02:476][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.19-15.26.02:512][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.19-15.26.02:560][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.19-15.26.02:590][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.19-15.26.02:590][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.19-15.26.03:108][  0]LogXGEController: Cleaning working directory: C:/Users/Capstone/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.19-15.26.03:108][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.19-15.26.03:108][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.19-15.26.03:108][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.19-15.26.05:351][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.19-15.26.05:568][  0]LogDerivedDataCache: Loaded boot cache 0.22s 87MB C:/Users/Capstone/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.19-15.26.05:568][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Capstone/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.19-15.26.05:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.19-15.26.05:568][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.19-15.26.05:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.19-15.26.05:568][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.19-15.26.05:587][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.19-15.26.05:602][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Capstone/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.19-15.26.05:602][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.19-15.26.05:602][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.19-15.26.05:622][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.19-15.26.05:625][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.19-15.26.05:636][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.19-15.26.05:973][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.10.19-15.26.06:441][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.19-15.26.06:911][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.19-15.26.06:976][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.19-15.26.06:976][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.19-15.26.06:976][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.19-15.26.06:976][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.19-15.26.07:026][  0]LogNetVersion: GunSafety 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3274422580)
+[2018.10.19-15.26.08:075][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.241317 seconds
+[2018.10.19-15.26.08:084][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.19-15.26.08:084][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.19-15.26.08:084][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.19-15.26.12:806][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.19-15.26.12:838][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.19-15.26.13:345][  0]SourceControl: Source control is disabled
+[2018.10.19-15.26.13:345][  0]SourceControl: Source control is disabled
+[2018.10.19-15.26.13:392][  0]SourceControl: Source control is disabled
+[2018.10.19-15.26.13:415][  0]SourceControl: Source control is disabled
+[2018.10.19-15.26.14:321][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.19-15.26.14:594][  0]LogOcInput: OculusInput pre-init called
+[2018.10.19-15.26.14:761][  0]LogEngine: Initializing Engine...
+[2018.10.19-15.26.14:899][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-31F93092
+[2018.10.19-15.26.14:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.19-15.26.14:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.19-15.26.14:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.19-15.26.14:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.19-15.26.15:184][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.19-15.26.15:233][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.19-15.26.15:275][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.19-15.26.15:589][  0]LogInit: FAudioDevice initialized.
+[2018.10.19-15.26.15:589][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.19-15.26.15:639][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Capstone/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.19-15.26.15:648][  0]LogInit: Texture streaming: Enabled
+[2018.10.19-15.26.15:719][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.19-15.26.15:749][  0]LogInit: Transaction tracking system initialized
+[2018.10.19-15.26.15:933][  0]BlueprintLog: New page: Editor Load
+[2018.10.19-15.26.16:509][  0]LocalizationService: Localization service is disabled
+[2018.10.19-15.26.17:203][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.19-15.26.17:203][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.19-15.26.17:203][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.19-15.26.17:203][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.19-15.26.17:203][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.19-15.26.17:203][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.19-15.26.17:203][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.19-15.26.17:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/' took 0.01s
+[2018.10.19-15.26.17:880][  0]SourceControl: Source control is disabled
+[2018.10.19-15.26.17:881][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/GunRange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.19-15.26.17:882][  0]LightingResults: New page: Lighting Build
+[2018.10.19-15.26.17:888][  0]MapCheck: New page: Map Check
+[2018.10.19-15.26.17:888][  0]LightingResults: New page: Lighting Build
+[2018.10.19-15.26.17:967][  0]LogLinker: Warning: Can't find file '/Game/ArchVis/Materials/M_Door_MAT_Inst'
+[2018.10.19-15.26.17:967][  0]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Materials/M_Door_MAT_Inst' while loading ../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/HomemadeAssets/Mesh/SM_Door.uasset.
+[2018.10.19-15.26.17:967][  0]LoadErrors: Error: /Game/HomemadeAssets/Mesh/SM_Door : Can't find file for asset. /Game/ArchVis/Materials/M_Door_MAT_Inst
+[2018.10.19-15.26.17:967][  0]LogLinker: Warning: Can't find file '/Game/ArchVis/Materials/M_Door_MAT_Inst'
+[2018.10.19-15.26.17:968][  0]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Materials/M_Door_MAT_Inst' while loading ../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/HomemadeAssets/Mesh/SM_Door.uasset.
+[2018.10.19-15.26.17:968][  0]LoadErrors: Error: /Game/HomemadeAssets/Mesh/SM_Door : Can't find file for asset. /Game/ArchVis/Materials/M_Door_MAT_Inst
+[2018.10.19-15.26.18:012][  0]LogLinker: Warning: Can't find file '/Game/ArchVis/Materials/M_Door_MAT_Inst'
+[2018.10.19-15.26.18:012][  0]LoadErrors: Failed to load /Game/ArchVis/Materials/M_Door_MAT_Inst.M_Door_MAT_Inst Referenced by SM_Door
+[2018.10.19-15.26.18:012][  0]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Materials/M_Door_MAT_Inst' while loading NULL.
+[2018.10.19-15.26.18:012][  0]LoadErrors: Failed to load /Game/ArchVis/Materials/M_Door_MAT_Inst.M_Door_MAT_Inst Referenced by SM_Door
+[2018.10.19-15.26.18:032][  0]LogMaterial: Display: Missing cached shader map for material M_Rusty_W, compiling. 
+[2018.10.19-15.26.20:234][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.19-15.26.20:234][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.19-15.26.20:234][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.19-15.26.20:234][  0]LogTexture: Display: Building textures: T_Rusty (AutoDXT, 4096X4096)
+[2018.10.19-15.26.20:234][  0]LogStaticMesh: Building static mesh SM_Rusty...
+[2018.10.19-15.26.24:640][  0]LogStaticMesh: Built static mesh [4.41s] /Game/HomemadeAssets/Mesh/SM_Rusty.SM_Rusty
+[2018.10.19-15.26.25:715][  0]LogStaticMesh: Building static mesh SM_Door...
+[2018.10.19-15.26.25:741][  0]LogStaticMesh: Built static mesh [0.03s] /Game/HomemadeAssets/Mesh/SM_Door.SM_Door
+[2018.10.19-15.26.25:768][  0]LogStaticMesh: Building static mesh GunAndMagazine_Cylinder_003...
+[2018.10.19-15.26.25:770][  0]LogStaticMesh: Built static mesh [0.00s] /Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003.GunAndMagazine_Cylinder_003
+[2018.10.19-15.26.25:796][  0]LogStaticMesh: Building static mesh GunAndMagazine_Cylinder_002...
+[2018.10.19-15.26.25:838][  0]LogStaticMesh: Built static mesh [0.04s] /Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002.GunAndMagazine_Cylinder_002
+[2018.10.19-15.26.25:855][  0]LogStaticMesh: Building static mesh 9mmBullet...
+[2018.10.19-15.26.25:866][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HomemadeAssets/Mesh/9mmBullet.9mmBullet
+[2018.10.19-15.26.25:871][  0]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2018.10.19-15.26.25:894][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.19-15.26.25:894][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.19-15.26.25:894][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.19-15.26.25:894][  0]LogStaticMesh: Building static mesh 50calBullet...
+[2018.10.19-15.26.25:908][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HomemadeAssets/Mesh/50calBullet.50calBullet
+[2018.10.19-15.26.25:914][  0]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2018.10.19-15.26.25:932][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.19-15.26.25:932][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.19-15.26.25:932][  0]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2018.10.19-15.26.25:954][  0]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2018.10.19-15.26.25:970][  0]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2018.10.19-15.26.25:989][  0]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2018.10.19-15.26.26:008][  0]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2018.10.19-15.26.26:028][  0]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.10.19-15.26.26:046][  0]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.10.19-15.26.26:068][  0]LogStaticMesh: Building static mesh TableCorrect_Cube...
+[2018.10.19-15.26.26:075][  0]LogStaticMesh: Built static mesh [0.01s] /Game/HomemadeAssets/Mesh/TableCorrect_Cube.TableCorrect_Cube
+[2018.10.19-15.26.26:114][  0]LogMaterial: Display: Missing cached shader map for material M_Rusty, compiling. 
+[2018.10.19-15.26.26:156][  0]LogAIModule: Creating AISystem for world GunRange
+[2018.10.19-15.26.26:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.19-15.26.26:316][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.19-15.26.27:011][  0]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.10.19-15.26.27:012][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 695.661ms to complete.
+[2018.10.19-15.26.27:012][  0]LogFileHelpers: Loading map 'GunRange' took 9.132
+[2018.10.19-15.26.27:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.19-15.26.27:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.19-15.26.27:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.19-15.26.27:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.19-15.26.27:218][  0]LogCollectionManager: Loaded 0 collections in 0.002207 seconds
+[2018.10.19-15.26.27:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Collections/' took 0.01s
+[2018.10.19-15.26.27:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/Developers/Capstone/Collections/' took 0.01s
+[2018.10.19-15.26.27:270][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/Collections/' took 0.01s
+[2018.10.19-15.26.27:270][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.19-15.26.27:285][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2572 classes and 603 folders.
+[2018.10.19-15.26.27:297][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.19-15.26.27:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.19-15.26.27:683][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.10.19-15.26.27:729][  0]LogSlate: Took 0.004242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.19-15.26.27:735][  0]LogSlate: Took 0.003799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.19-15.26.27:748][  0]LogSlate: Took 0.003932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.19-15.26.27:928][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.19-15.26.28:022][  0]LogSlate: Took 0.003587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.19-15.26.28:143][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.19-15.26.28:143][  0]LogLoad: (Engine Initialization) Total time: 40.21 seconds
+[2018.10.19-15.26.28:143][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.19-15.26.28:163][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-15.26.28:194][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.19-15.26.28:198][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-15.26.28:279][  1]LogAssetRegistry: Asset discovery search completed in 22.3276 seconds
+[2018.10.19-15.26.28:282][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.19-15.26.28:282][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000104 seconds (updated 0 objects)
+[2018.10.19-15.26.28:731][ 27]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.10.19-15.26.28:953][ 40]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.10.19-15.26.29:101][ 49]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.10.19-15.26.30:826][150]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.10.19-15.26.32:050][223]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.10.19-15.26.33:084][285]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.10.19-15.26.33:701][322]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.10.19-15.26.34:273][356]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.10.19-15.26.35:202][412]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.10.19-15.26.35:563][433]LogSlate: Window 'Message Log' being destroyed
+[2018.10.19-15.26.35:566][433]LogSlate: Window 'Message Log' being destroyed
+[2018.10.19-15.26.36:388][483]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.10.19-15.26.36:664][499]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.10.19-15.26.37:815][568]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.10.19-15.26.38:306][597]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.10.19-15.26.38:917][634]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.19-15.26.41:037][760]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.19-15.26.41:094][763]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.19-15.26.41:868][809]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.19-15.29.03:816][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.29.06:918][399]Cmd: SELECT NONE
+[2018.10.19-15.29.07:352][425]Cmd: SELECT NONE
+[2018.10.19-15.29.09:468][552]Cmd: SELECT NONE
+[2018.10.19-15.29.09:702][566]Cmd: SELECT NONE
+[2018.10.19-15.29.09:868][576]Cmd: SELECT NONE
+[2018.10.19-15.29.10:035][586]Cmd: SELECT NONE
+[2018.10.19-15.29.48:626][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.43.59:640][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.44.08:604][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2018.10.19-15.44.08:604][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2018.10.19-15.44.08:604][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2018.10.19-15.44.08:604][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2018.10.19-15.44.08:604][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2018.10.19-15.44.08:604][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2018.10.19-15.44.08:605][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2018.10.19-15.44.08:605][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2018.10.19-15.44.08:613][495]LogBlueprint: Warning: [Compiler MotionControllerPawn] [1100.68] Compile of MotionControllerPawn successful, but with 8 Warning(s) [in 21 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.10.19-15.44.08:780][495]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2018.10.19-15.44.08:853][495]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2018.10.19-15.44.08:902][495]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.19-15.44.08:902][495]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.19-15.44.08:902][495]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.19-15.44.08:902][495]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.19-15.44.08:902][495]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2018.10.19-15.44.08:919][495]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2018.10.19-15.44.08:954][495]LogSlate: Took 0.001833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.19-15.44.08:961][495]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.10.19-15.44.09:641][495]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.10.19-15.44.10:934][495]LogSlate: Took 0.003429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.19-15.44.11:289][496]LogSlate: Took 0.003812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.19-15.44.13:298][611]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.10.19-15.44.13:890][643]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2018.10.19-15.44.15:063][711]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.10.19-15.44.15:216][720]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.10.19-15.44.15:304][725]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.10.19-15.44.16:267][778]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.19-15.44.18:205][892]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.19-15.44.19:011][940]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.19-15.44.19:109][946]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.19-15.44.19:492][969]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.19-15.44.21:243][ 74]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.19-15.44.50:474][258]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.19-15.45.09:349][388]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HomemadeAssets/Blueprints/VR_Pawn.VR_Pawn
+[2018.10.19-15.45.11:384][480]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:81).
+[2018.10.19-15.45.11:569][491]LogSlate: Window 'VR_Pawn*' being destroyed
+[2018.10.19-15.48.43:038][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GunRange' took 0.040
+[2018.10.19-15.48.43:041][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HomemadeAssets/Blueprints/VR_Pawn] ([1] browsable assets)...
+[2018.10.19-15.48.43:041][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Blueprints/VR_Pawn]
+[2018.10.19-15.48.43:064][512]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/VR_Pawn_Auto114DE4BAD48917F0921FC18915CD8100C.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/HomemadeAssets/Blueprints/VR_Pawn_Auto1.uasset'
+[2018.10.19-15.48.43:067][512]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.10.19-15.49.09:431][804]AssetReimport: New page: Outstanding source content changes 7:49:09 AM
+[2018.10.19-15.49.09:434][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_texture.png)
+[2018.10.19-15.49.09:782][805]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vr_controller_vive_1_5.obj)
+[2018.10.19-15.49.09:801][805]LogFbx: Loading FBX Scene from C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vr_controller_vive_1_5.obj
+[2018.10.19-15.49.09:963][805]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-15.49.14:412][805]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.19-15.49.15:194][805]LogStaticMesh: Building static mesh vr_controller_vive_1_5...
+[2018.10.19-15.49.15:194][805]LogStaticMesh: Built static mesh [0.00s] /Game/VirtualReality/Meshes/vr_controller_vive_1_5.vr_controller_vive_1_5
+[2018.10.19-15.49.15:270][806]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_occ_bake.tga)
+[2018.10.19-15.49.16:908][807]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_texture30A74E9D4FEA5AD3CC29BFAB9BBE7ABC.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_texture.uasset'
+[2018.10.19-15.49.16:958][807]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/vr_controller_vive_1_56B2D73F246B71D8E87F621A491450CC4.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vr_controller_vive_1_5.uasset'
+[2018.10.19-15.49.17:425][807]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_occ_bakeD5BDBB1A45F882EC37089F971FD62FF3.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_occ_bake.uasset'
+[2018.10.19-15.49.20:448][987]AssetReimport: Importing new asset /Game/VirtualReality/Meshes/onepointfive_texture.
+[2018.10.19-15.49.20:448][987]AssetReimport: Importing new asset /Game/VirtualReality/Meshes/vr_controller_vive_1_5.
+[2018.10.19-15.49.20:448][987]AssetReimport: Importing new asset /Game/VirtualReality/Meshes/onepointfive_occ_bake.
+[2018.10.19-15.49.52:433][904]LogActorFactory: Actor Factory created vr_controller_vive_1_5
+[2018.10.19-15.49.52:852][929]LogActorFactory: Actor Factory created vr_controller_vive_1_5
+[2018.10.19-15.49.56:662][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.51.14:878][688]LogEditorFactories: Performing atomic reimport of [C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.obj]
+[2018.10.19-15.51.14:879][688]LogPhysics: Warning: Failed to cook TriMesh: /Engine/Transient.vr_controller_vive_1_5.
+[2018.10.19-15.51.14:879][688]LogPhysics: Warning: Attempt to build physics data for /Engine/Transient.vr_controller_vive_1_5:BodySetup_0 when we are unable to.
+[2018.10.19-15.51.14:905][688]LogFbx: Loading FBX Scene from C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/vr_controller_vive_1_5.obj
+[2018.10.19-15.51.15:073][688]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-15.51.15:075][688]LogFbx: Warning: Triangulating static mesh whole_model_group1
+[2018.10.19-15.51.15:557][688]LogStaticMesh: Building static mesh vr_controller_vive_1_5...
+[2018.10.19-15.51.15:557][688]LogStaticMesh: Built static mesh [0.00s] /Game/VirtualReality/Meshes/vr_controller_vive_1_5.vr_controller_vive_1_5
+[2018.10.19-15.51.15:559][688]LogPhysics: Warning: Failed to cook TriMesh: /Game/VirtualReality/Meshes/vr_controller_vive_1_5.vr_controller_vive_1_5.
+[2018.10.19-15.51.15:559][688]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualReality/Meshes/vr_controller_vive_1_5.vr_controller_vive_1_5:BodySetup_1 when we are unable to.
+[2018.10.19-15.51.15:570][688]LogEditorFactories: -- imported successfully
+[2018.10.19-15.51.15:582][688]LogPhysics: Warning: Failed to cook TriMesh: /Game/VirtualReality/Meshes/vr_controller_vive_1_5.vr_controller_vive_1_5.
+[2018.10.19-15.51.15:582][688]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualReality/Meshes/vr_controller_vive_1_5.vr_controller_vive_1_5:BodySetup_0 when we are unable to.
+[2018.10.19-15.51.27:768][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.51.38:899][ 23]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.19-15.53.23:548][842]AssetReimport: New page: Outstanding source content changes 7:53:23 AM
+[2018.10.19-15.53.23:551][842]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vive_controller.fbx)
+[2018.10.19-15.53.23:573][842]LogFbx: Loading FBX Scene from C:/Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vive_controller.fbx
+[2018.10.19-15.53.23:591][842]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.19-15.53.25:272][842]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.19-15.53.25:911][842]LogStaticMesh: Building static mesh vive_controller...
+[2018.10.19-15.53.26:236][842]LogStaticMesh: Built static mesh [0.33s] /Game/VirtualReality/Meshes/vive_controller.vive_controller
+[2018.10.19-15.53.26:422][843]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/vive_controller5CAB6FAE49D847E2D23C12A5841B661F.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vive_controller.uasset'
+[2018.10.19-15.53.28:101][943]LogSlate: Window 'Message Log' being destroyed
+[2018.10.19-15.53.28:106][943]LogSlate: Window 'Message Log' being destroyed
+[2018.10.19-15.53.29:442][ 23]AssetReimport: Importing new asset /Game/VirtualReality/Meshes/vive_controller.
+[2018.10.19-15.53.41:946][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.53.43:197][843]Cmd: DELETE
+[2018.10.19-15.53.43:198][843]Cmd: ACTOR DELETE
+[2018.10.19-15.53.43:209][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.19-15.53.43:241][843]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.10.19-15.53.47:634][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.53.47:820][118]LogActorFactory: Actor Factory created vive_controller
+[2018.10.19-15.53.48:524][160]LogActorFactory: Actor Factory created vive_controller
+[2018.10.19-15.53.49:074][193]LogActorFactory: Actor Factory created vive_controller
+[2018.10.19-15.53.50:890][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.54.10:112][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.54.11:278][521]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.19-15.54.22:568][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.19-15.54.53:682][715]LogEditorFactories: Performing atomic reimport of [C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/onepointfive_occ_bake.tga]
+[2018.10.19-15.54.53:729][715]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/onepointfive_occ_bake.tga)
+[2018.10.19-15.54.53:777][715]LogTexture: Display: Building textures: onepointfive_occ_bake (AutoDXT, 2048X2048)
+[2018.10.19-15.54.54:888][715]LogEditorFactories: -- imported successfully
+[2018.10.19-15.54.58:922][782]LogEditorFactories: Performing atomic reimport of [C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/onepointfive_texture.png]
+[2018.10.19-15.54.58:925][782]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Program Files (x86)/Steam/steamapps/common/SteamVR/resources/rendermodels/vr_controller_vive_1_5/onepointfive_texture.png)
+[2018.10.19-15.54.59:000][782]LogTexture: Display: Building textures: onepointfive_texture (AutoDXT, 2048X2048)
+[2018.10.19-15.54.59:239][782]LogEditorFactories: -- imported successfully
+[2018.10.19-15.55.01:036][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.55.05:236][ 24]LogMaterial: Display: Missing cached shader map for material onepointfive_occ_bake_Mat, compiling. 
+[2018.10.19-15.55.05:260][ 24]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.19-15.55.05:260][ 24]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.19-15.55.05:260][ 24]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.19-15.55.08:872][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-15.55.09:621][284]Cmd: TRANSACTION UNDO
+[2018.10.19-15.55.09:621][284]LogEditorTransaction: Undo Create Actors
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.10.19-15.55.09:623][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GunRange.GunRange:PersistentLevel.ModelComponent_102' invalid (454 verts, 0 indices).
+[2018.10.19-15.55.09:624][284]LogPhysics: Warning: Attempt to build physics data for /Game/GunRange.GunRange:PersistentLevel.ModelComponent_102.BodySetup_0 when we are unable to.
+[2018.10.19-15.55.13:940][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-15.55.27:476][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-15.55.32:767][557]LogSlate: Window 'Material Baking Options' being destroyed
+[2018.10.19-15.55.32:789][557]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer onepointfive_occ_bake_Mat, compiling. 
+[2018.10.19-15.55.35:638][557]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.19-15.55.35:638][557]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.19-15.55.35:639][557]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.19-15.55.35:676][557]LogTexture: Display: Building textures: T_M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54_BaseColor (BGRA8, 128X128)
+[2018.10.19-15.55.35:686][557]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2018.10.19-15.55.35:781][557]LogShaderCompilers: Display: Shaders left to compile 213
+[2018.10.19-15.55.35:781][557]LogShaderCompilers: Display: Shaders left to compile 203
+[2018.10.19-15.55.35:781][557]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.10.19-15.55.35:781][557]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.10.19-15.55.35:781][557]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.19-15.55.37:749][675]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.10.19-15.55.37:898][684]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.10.19-15.55.38:048][693]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.10.19-15.55.39:685][791]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.10.19-15.55.40:225][822]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.19-15.55.40:420][833]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.10.19-15.55.41:038][870]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.10.19-15.55.41:927][923]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.10.19-15.55.42:061][931]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.10.19-15.55.44:049][ 50]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.10.19-15.55.44:116][ 54]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.10.19-15.55.44:516][ 78]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.10.19-15.55.44:934][103]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.10.19-15.55.46:181][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.55.46:961][223]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.10.19-15.55.47:162][235]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.19-15.55.47:626][261]LogMaterial: Display: Missing cached shader map for material onepointfive_texture_Mat, compiling. 
+[2018.10.19-15.55.47:833][270]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.10.19-15.55.48:634][319]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.19-15.55.49:986][400]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.19-15.55.50:153][410]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.19-15.55.51:206][473]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.19-15.55.51:222][474]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.19-15.55.59:177][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.55.59:301][957]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/VirtualReality/Meshes/vive_controller.vive_controller
+[2018.10.19-15.56.39:847][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.56.48:522][797]LogSlate: Window 'vive_controller*' being destroyed
+[2018.10.19-15.56.48:528][797]LogSlate: Window 'vive_controller*' being destroyed
+[2018.10.19-15.57.11:733][179]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.10.19-15.57.25:588][974]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.10.19-15.57.36:562][591]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HomemadeAssets/Blueprints/VR_Pawn.VR_Pawn
+[2018.10.19-15.57.40:968][833]LogSlate: Window 'VR_Pawn*' being destroyed
+[2018.10.19-15.58.56:349][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/GunRange_Auto238B4286B4D943923BC3FA992760CE4E7.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/GunRange_Auto2.umap'
+[2018.10.19-15.58.56:356][332]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GunRange' took 0.136
+[2018.10.19-15.58.56:356][332]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2018.10.19-15.58.56:359][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Blueprints/VR_Pawn] ([1] browsable assets)...
+[2018.10.19-15.58.56:371][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HomemadeAssets/Blueprints/VR_Pawn.VR_Pawn]
+[2018.10.19-15.58.56:371][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Blueprints/VR_Pawn]
+[2018.10.19-15.58.56:397][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/VR_Pawn_Auto29C953DA046A765895112609E79544548.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/HomemadeAssets/Blueprints/VR_Pawn_Auto2.uasset'
+[2018.10.19-15.58.56:410][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Meshes/onepointfive_texture] ([1] browsable assets)...
+[2018.10.19-15.58.56:419][332]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualReality/Meshes/onepointfive_texture.onepointfive_texture]
+[2018.10.19-15.58.56:419][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Meshes/onepointfive_texture]
+[2018.10.19-15.58.56:449][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_texture_Auto2D84740BE4573CDA57680FBB681B7D16D.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/VirtualReality/Meshes/onepointfive_texture_Auto2.uasset'
+[2018.10.19-15.58.56:455][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Meshes/vive_controller] ([1] browsable assets)...
+[2018.10.19-15.58.56:466][332]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/VirtualReality/Meshes/vive_controller.vive_controller]
+[2018.10.19-15.58.56:466][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Meshes/vive_controller]
+[2018.10.19-15.58.56:498][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/vive_controller_Auto28C803C8C4832447B159A208B6236EEF0.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/VirtualReality/Meshes/vive_controller_Auto2.uasset'
+[2018.10.19-15.58.56:503][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Meshes/whole_model_group1Mat] ([1] browsable assets)...
+[2018.10.19-15.58.56:516][332]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VirtualReality/Meshes/whole_model_group1Mat.whole_model_group1Mat]
+[2018.10.19-15.58.56:516][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Meshes/whole_model_group1Mat]
+[2018.10.19-15.58.56:535][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/whole_model_group1Mat_Auto29723BC0443E3ADA11F3F9F9FF1210839.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/VirtualReality/Meshes/whole_model_group1Mat_Auto2.uasset'
+[2018.10.19-15.58.56:541][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Meshes/onepointfive_occ_bake] ([1] browsable assets)...
+[2018.10.19-15.58.56:549][332]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualReality/Meshes/onepointfive_occ_bake.onepointfive_occ_bake]
+[2018.10.19-15.58.56:549][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Meshes/onepointfive_occ_bake]
+[2018.10.19-15.58.56:583][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_occ_bake_Auto2E423645B472A1EDD174B15B046F71805.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/VirtualReality/Meshes/onepointfive_occ_bake_Auto2.uasset'
+[2018.10.19-15.58.56:588][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VirtualReality/Meshes/M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54] ([2] browsable assets)...
+[2018.10.19-15.58.56:600][332]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/VirtualReality/Meshes/M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54.M_M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54]
+[2018.10.19-15.58.56:602][332]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualReality/Meshes/M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54.T_M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54_BaseColor]
+[2018.10.19-15.58.56:602][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Meshes/M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54]
+[2018.10.19-15.58.56:607][332]LogTexture: Display: Building textures: T_M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54_BaseColor (DXT1, 128X128)
+[2018.10.19-15.58.56:630][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/M_vive_controller_onepointfive_o69D8A4BC42D365F7F4B59D9DCA32F154.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/VirtualReality/Meshes/M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54_Auto2.uasset'
+[2018.10.19-15.58.56:635][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualReality/Meshes/onepointfive_texture_Mat] ([1] browsable assets)...
+[2018.10.19-15.58.56:645][332]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VirtualReality/Meshes/onepointfive_texture_Mat.onepointfive_texture_Mat]
+[2018.10.19-15.58.56:645][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualReality/Meshes/onepointfive_texture_Mat]
+[2018.10.19-15.58.56:664][332]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_texture_Mat_Auto244D6F5484B6412C4FAE2FBA3DDC2EDA8.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/Autosaves/Game/VirtualReality/Meshes/onepointfive_texture_Mat_Auto2.uasset'
+[2018.10.19-15.58.56:666][332]LogFileHelpers: Auto-saving content packages took 0.310
+[2018.10.19-15.59.43:295][129]BlueprintLog: New page: Compile VR_Pawn
+[2018.10.19-15.59.44:078][160]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/VR_Pawn4AC8A6444019BE3A4C6A8E89A7D6184B.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/HomemadeAssets/Blueprints/VR_Pawn.uasset'
+[2018.10.19-15.59.59:318][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vive_controller)
+[2018.10.19-15.59.59:881][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vive_controller)
+[2018.10.19-16.00.02:042][236]Cmd: DELETE
+[2018.10.19-16.00.02:042][236]Cmd: ACTOR DELETE
+[2018.10.19-16.00.02:045][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.19-16.00.02:075][236]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.10.19-16.00.09:751][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-16.00.14:127][957]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.19-16.00.15:033][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.19-16.00.17:277][144]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.19-16.00.26:465][694]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.19-16.00.28:095][789]Cmd: SELECT NONE
+[2018.10.19-16.00.44:855][792]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.10.19-16.00.58:680][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-16.01.07:370][998]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.19-16.02.00:470][938]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.19-16.02.20:804][156]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HomemadeAssets/Blueprints/VR_PlayerController.VR_PlayerController
+[2018.10.19-16.02.36:318][ 63]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.19-16.03.14:826][581]LogSlate: Window 'Create New Blueprint' being destroyed
+[2018.10.19-16.03.14:854][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VR_CameraManager.VR_CameraManager
+[2018.10.19-16.03.24:153][ 57]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.19-16.03.27:915][228]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.19-16.03.43:095][134]LogMetaData: Removing '/Game/HomemadeAssets/Blueprints/VR_CameraManager.VR_CameraManager:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VR_CameraManager.PackageMetaData'
+[2018.10.19-16.03.43:095][134]LogMetaData: Removing '/Game/HomemadeAssets/Blueprints/VR_CameraManager.SKEL_VR_CameraManager_C' ref from Metadata '/Game/Blueprints/VR_CameraManager.PackageMetaData'
+[2018.10.19-16.03.43:095][134]LogMetaData: Removing '/Game/HomemadeAssets/Blueprints/VR_CameraManager.VR_CameraManager_C' ref from Metadata '/Game/Blueprints/VR_CameraManager.PackageMetaData'
+[2018.10.19-16.03.43:095][134]LogMetaData: Removing '/Game/HomemadeAssets/Blueprints/VR_CameraManager.VR_CameraManager:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/VR_CameraManager.PackageMetaData'
+[2018.10.19-16.03.43:095][134]LogMetaData: Removing '/Game/HomemadeAssets/Blueprints/VR_CameraManager.VR_CameraManager:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/VR_CameraManager.PackageMetaData'
+[2018.10.19-16.03.43:095][134]LogMetaData: Removing '/Game/HomemadeAssets/Blueprints/VR_CameraManager.VR_CameraManager:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/VR_CameraManager.PackageMetaData'
+[2018.10.19-16.03.43:132][134]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/VR_CameraManagerB1B1FE764123CAD38E45DF917D4C5A7F.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/HomemadeAssets/Blueprints/VR_CameraManager.uasset'
+[2018.10.19-16.04.47:257][965]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HomemadeAssets/Blueprints/GunSafetyGameMode.GunSafetyGameMode
+[2018.10.19-16.04.56:713][509]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.19-16.05.26:802][307]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.10.19-16.05.26:802][307]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.19-16.05.26:802][307]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.10.19-16.05.35:533][829]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.10.19-16.06.31:325][ 67]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.19-16.06.31:451][ 70]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GunSafety
+[2018.10.19-16.06.31:451][ 70]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.19-16.06.31:451][ 70]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.19-16.06.31:451][ 70]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.19-16.06.31:451][ 70]LogTemp: BranchPath = SOC-SBABU-WR2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SOC-SBABU-WR2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.19-16.06.31:494][ 72]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Capstone\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.19-16.06.40:554][614]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.19-16.07.02:142][826]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.19-16.07.02:145][826]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.19-16.07.35:269][805]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.10.19-16.07.44:578][302]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.19-16.07.44:644][303]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GunSafety
+[2018.10.19-16.07.44:644][303]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.19-16.07.44:644][303]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.19-16.07.44:644][303]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.19-16.07.44:644][303]LogTemp: BranchPath = SOC-SBABU-WR2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SOC-SBABU-WR2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.19-16.07.44:672][304]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Capstone\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.19-16.07.48:980][562]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.19-16.07.48:985][562]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.19-16.08.30:810][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GunRange" FILE="../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/GunRange.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.19-16.08.30:925][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/GunRangeB3933FA148D4A447DDEE7C8D89569266.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/GunRange.umap'
+[2018.10.19-16.08.30:973][  6]LogFileHelpers: Saving map 'GunRange' took 1.168
+[2018.10.19-16.08.31:225][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_textureE42D493246C4D945C3A1A7B712B0AAD5.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_texture.uasset'
+[2018.10.19-16.08.31:262][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/vive_controller2EAA033E4DF238EDAD5DE98F45BAFA51.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/vive_controller.uasset'
+[2018.10.19-16.08.31:283][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/whole_model_group1Mat0C50B2CB4555E2F3F54B519579E7735F.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/whole_model_group1Mat.uasset'
+[2018.10.19-16.08.31:701][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_occ_bakeC8D5672248ECBDA6128AAD851AFD191D.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_occ_bake.uasset'
+[2018.10.19-16.08.31:735][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/M_vive_controller_onepointfive_oE580986540AF6BB73F0EFD96F47AF2BF.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/M_vive_controller_onepointfive_occ_bake_Mat_BEF5B5984697E80D71C619BA567F9F54.uasset'
+[2018.10.19-16.08.31:754][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/onepointfive_texture_MatB7D81A314A25E156B344EB838C317E89.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/VirtualReality/Meshes/onepointfive_texture_Mat.uasset'
+[2018.10.19-16.08.31:781][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/GunSafetyGameModeF9E58A7D47EF837DECA796A3B76306DA.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/HomemadeAssets/Blueprints/GunSafetyGameMode.uasset'
+[2018.10.19-16.08.31:808][  6]LogSavePackage: Moving '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Saved/VR_PlayerController987656334FDC785727710AAA155EC753.tmp' to '../../../../../../Users/Capstone/Music/GunSafety/gun-safety-training/Content/HomemadeAssets/Blueprints/VR_PlayerController.uasset'
+[2018.10.19-16.08.40:111][443]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.19-16.08.40:190][443]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GunSafety
+[2018.10.19-16.08.40:190][443]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.19-16.08.40:190][443]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.19-16.08.40:190][443]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.19-16.08.40:190][443]LogTemp: BranchPath = SOC-SBABU-WR2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SOC-SBABU-WR2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.19-16.08.40:220][445]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Capstone\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.19-16.09.12:825][397]LogInit: Warning: CVar named 'vr.InstancedStereo' marked up in RendererSettings was not found or is set to read-only
+[2018.10.19-16.09.22:495][974]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.19-16.09.22:499][974]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.19-16.09.27:153][253]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.10.19-16.09.27:300][253]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.19-16.09.27:359][253]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.19-16.09.27:416][253]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.19-16.09.27:473][253]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.19-16.09.27:530][253]LogSlate: Window 'GunSafety - Unreal Editor' being destroyed
+[2018.10.19-16.09.27:731][254]Cmd: QUIT_EDITOR
+[2018.10.19-16.09.27:791][254]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.19-16.09.27:811][254]LogExit: Preparing to exit.
+[2018.10.19-16.09.28:704][254]LogExit: Editor shut down
+[2018.10.19-16.09.28:705][254]LogExit: Transaction tracking system shut down
+[2018.10.19-16.09.29:209][254]LogExit: Object subsystem successfully closed.
+[2018.10.19-16.09.29:240][254]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.19-16.09.29:244][254]LogD3D11RHI: Shutdown
+[2018.10.19-16.09.29:244][254]LogD3D11RHI: CleanupD3DDevice
+[2018.10.19-16.09.29:247][254]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.19-16.09.29:289][254]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2018.10.19-16.09.29:289][254]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (618)
+[2018.10.19-16.09.29:289][254]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2018.10.19-16.09.29:289][254]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.10.19-16.09.29:290][254]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.19-16.09.29:290][254]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.10.19-16.09.29:290][254]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module MeshBuilder (600)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.19-16.09.29:296][254]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.19-16.09.29:297][254]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.19-16.09.29:298][254]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.19-16.09.29:590][254]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.19-16.09.29:591][254]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.19-16.09.29:655][254]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.19-16.09.29:663][254]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.19-16.09.29:663][254]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.19-16.09.29:663][254]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.19-16.09.29:669][254]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.19-16.09.29:669][254]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.19-16.09.29:670][254]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.19-16.09.29:670][254]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.19-16.09.29:670][254]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.19-16.09.29:671][254]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.19-16.09.29:765][254]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.19-16.09.29:766][254]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.19-16.09.29:769][254]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.19-16.09.29:770][254]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.19-16.09.29:771][254]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.19-16.09.29:871][254]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.19-16.09.29:972][254]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.19-16.09.29:973][254]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.19-16.09.29:973][254]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.19-16.09.29:973][254]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.19-16.09.29:973][254]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.19-16.09.29:974][254]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.19-16.09.29:975][254]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.19-16.09.29:975][254]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.19-16.09.29:975][254]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.19-16.09.29:975][254]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.19-16.09.29:975][254]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.19-16.09.29:975][254]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.19-16.09.29:976][254]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.19-16.09.29:982][254]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.19-16.09.29:990][254]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.19-16.09.29:990][254]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.19-16.09.29:991][254]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.19-16.09.29:991][254]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.19-16.09.29:992][254]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.19-16.09.29:992][254]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.19-16.09.29:992][254]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.19-16.09.29:992][254]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.19-16.09.29:993][254]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.19-16.09.30:056][254]LogDerivedDataCache: Shutdown
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.19-16.09.30:056][254]LogXGEController: Cleaning working directory: C:/Users/Capstone/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.19-16.09.30:056][254]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.19-16.09.30:057][254]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.19-16.09.30:057][254]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.19-16.09.30:058][254]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.19-16.09.30:058][254]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.19-16.09.30:065][254]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.19-16.09.30:066][254]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.19-16.09.30:067][254]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.19-16.09.30:067][254]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.19-16.09.30:070][254]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.19-16.09.30:070][254]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.19-16.09.30:070][254]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B32F0F3F3-40DB-9727-BF78-83B29E3558D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=654df8bd423df9391d79ffa023f4dc31%7C22e0618366684d28a72953957cd44439%7C08ad66ac-69aa-4a51-8a5f-9b2c38114cfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.19-16.09.30:081][254]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.19-16.09.30:082][254]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.19-16.09.30:083][254]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.19-16.09.30:083][254]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.19-16.09.30:084][254]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.19-16.09.30:091][254]LogExit: Exiting.
+[2018.10.19-16.09.30:118][254]Log file closed, 10/19/18 12:09:30
