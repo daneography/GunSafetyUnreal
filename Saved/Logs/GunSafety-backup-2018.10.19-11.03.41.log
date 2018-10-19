@@ -1,0 +1,1211 @@
+﻿Log file open, 10/18/18 12:09:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GunSafety
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.458657
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.622s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz, GPU: AMD Radeon(TM) R5 240
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.18-16.10.00:252][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-16.10.00:252][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.18-16.10.00:306][  0]LogHAL: Display: Platform has ~ 8 GB [8544514048 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.18-16.10.00:306][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.18-16.10.00:306][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.18-16.10.00:321][  0]LogInit: Computer: SOC-SBABU-WR5
+[2018.10.18-16.10.00:321][  0]LogInit: User: dacena
+[2018.10.18-16.10.00:321][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.18-16.10.00:321][  0]LogInit: High frequency timer resolution =3.312801 MHz
+[2018.10.18-16.10.00:321][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.10.18-16.10.00:321][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.18-16.10.00:321][  0]LogMemory: Process Physical Memory: 100.45 MB used, 100.45 MB peak
+[2018.10.18-16.10.00:321][  0]LogMemory: Process Virtual Memory: 91.59 MB used, 91.59 MB peak
+[2018.10.18-16.10.00:321][  0]LogMemory: Physical Memory: 3693.43 MB used,  4455.26 MB free, 8148.68 MB total
+[2018.10.18-16.10.00:321][  0]LogMemory: Virtual Memory: 4661.54 MB used,  4455.26 MB free, 134217728.00 MB total
+[2018.10.18-16.10.01:042][  0]LogInit: Using OS detected language (en-US).
+[2018.10.18-16.10.01:042][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.18-16.10.01:049][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.18-16.10.01:741][  0]LogStreaming: Display: Took  0.699s to InitEngineTextLocalization.
+[2018.10.18-16.10.01:742][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.18-16.10.02:216][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.18-16.10.02:216][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.18-16.10.03:843][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-16.10.03:843][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.18-16.10.03:936][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 240' (Feature Level 11_0)
+[2018.10.18-16.10.03:936][  0]LogD3D11RHI:       1005/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.10.18-16.10.04:054][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.18-16.10.04:054][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.18-16.10.04:054][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.18-16.10.04:065][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.18-16.10.04:065][  0]LogD3D11RHI:     GPU DeviceId: 0x6611 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.18-16.10.04:065][  0]LogWindows: EnumDisplayDevices:
+[2018.10.18-16.10.04:066][  0]LogWindows:    0. 'AMD Radeon(TM) R5 240' (P:0 D:1)
+[2018.10.18-16.10.04:066][  0]LogWindows:    1. 'AMD Radeon(TM) R5 240' (P:1 D:1)
+[2018.10.18-16.10.04:067][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2018.10.18-16.10.04:067][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 240
+[2018.10.18-16.10.04:067][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.128.0, unified:22.19.128.0)
+[2018.10.18-16.10.04:067][  0]LogD3D11RHI:      Driver Date: 8-31-2017
+[2018.10.18-16.10.04:067][  0]LogRHI: Texture pool is 703 MB (70% of 1005 MB)
+[2018.10.18-16.10.04:158][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.18-16.10.04:171][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.18-16.10.04:173][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Users/dacena/VRprojects/GunSafety/Intermediate/Shaders/WorkingDirectory/7528/).
+[2018.10.18-16.10.04:173][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dacena/AppData/Local/Temp/UnrealShaderWorkingDir/211FEFD84E56FFD9E3FF698C9419555F/'.
+[2018.10.18-16.10.06:471][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.18-16.10.06:510][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.18-16.10.06:541][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.18-16.10.06:572][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.18-16.10.06:623][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.18-16.10.06:666][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.18-16.10.06:698][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.18-16.10.06:730][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.18-16.10.06:754][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-16.10.06:928][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.18-16.10.07:192][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-16.10.07:192][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-16.10.07:291][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-16.10.07:291][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-16.10.07:337][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.18-16.10.07:377][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.18-16.10.07:438][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.18-16.10.07:502][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.18-16.10.07:541][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.18-16.10.07:542][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.18-16.10.09:207][  0]LogXGEController: Cleaning working directory: C:/Users/dacena/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.18-16.10.09:208][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.18-16.10.09:208][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.18-16.10.09:208][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.18-16.10.12:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.18-16.10.13:096][  0]LogDerivedDataCache: Loaded boot cache 0.65s 71MB C:/Users/dacena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.18-16.10.13:097][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dacena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.18-16.10.13:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dacena/VRprojects/GunSafety/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.18-16.10.13:097][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.18-16.10.13:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dacena/VRprojects/GunSafety/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.18-16.10.13:097][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.18-16.10.13:166][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.18-16.10.13:214][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dacena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.18-16.10.13:214][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.18-16.10.13:214][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.18-16.10.13:242][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.18-16.10.13:244][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.18-16.10.13:264][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.18-16.10.14:158][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.10.18-16.10.14:599][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-16.10.17:322][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.18-16.10.17:895][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.18-16.10.17:895][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.18-16.10.17:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.18-16.10.17:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.18-16.10.18:117][  0]LogNetVersion: GunSafety 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3274422580)
+[2018.10.18-16.10.19:455][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.271029 seconds
+[2018.10.18-16.10.19:463][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.18-16.10.19:463][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.18-16.10.19:463][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.18-16.10.37:056][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.18-16.10.37:132][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.18-16.10.38:345][  0]SourceControl: Source control is disabled
+[2018.10.18-16.10.38:345][  0]SourceControl: Source control is disabled
+[2018.10.18-16.10.38:517][  0]SourceControl: Source control is disabled
+[2018.10.18-16.10.38:584][  0]SourceControl: Source control is disabled
+[2018.10.18-16.10.40:929][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.18-16.10.41:692][  0]LogOcInput: OculusInput pre-init called
+[2018.10.18-16.10.42:046][  0]LogEngine: Initializing Engine...
+[2018.10.18-16.10.42:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-16.10.42:050][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.18-16.10.42:050][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-16.10.42:050][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.18-16.10.42:051][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-16.10.42:385][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.18-16.10.42:481][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.18-16.10.42:556][  0]LogInit: XAudio2 using '1 - DELL U2414H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-16.10.42:887][  0]LogInit: FAudioDevice initialized.
+[2018.10.18-16.10.42:887][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.18-16.10.43:122][  0]LogDerivedDataCache: Saved boot cache 0.23s 71MB C:/Users/dacena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.18-16.10.43:134][  0]LogInit: Texture streaming: Enabled
+[2018.10.18-16.10.43:489][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.18-16.10.43:738][  0]LogInit: Transaction tracking system initialized
+[2018.10.18-16.10.44:191][  0]BlueprintLog: New page: Editor Load
+[2018.10.18-16.10.46:875][  0]LocalizationService: Localization service is disabled
+[2018.10.18-16.10.48:723][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.18-16.10.48:723][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.18-16.10.48:723][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.18-16.10.48:723][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.18-16.10.48:723][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-16.10.48:723][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.18-16.10.48:723][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-16.10.48:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/GunSafety/Content/' took 0.01s
+[2018.10.18-16.10.51:044][  0]SourceControl: Source control is disabled
+[2018.10.18-16.10.51:045][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-16.10.51:131][  0]LightingResults: New page: Lighting Build
+[2018.10.18-16.10.51:138][  0]MapCheck: New page: Map Check
+[2018.10.18-16.10.51:138][  0]LightingResults: New page: Lighting Build
+[2018.10.18-16.10.51:558][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.18-16.10.51:567][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-16.10.51:590][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-16.10.51:770][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 178.899ms to complete.
+[2018.10.18-16.10.51:770][  0]LogFileHelpers: Loading map 'Template_Default' took 0.725
+[2018.10.18-16.10.52:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.10.52:204][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.10.52:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.10.52:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-16.10.52:283][  0]LogCollectionManager: Loaded 0 collections in 0.004097 seconds
+[2018.10.18-16.10.52:352][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/GunSafety/Saved/Collections/' took 0.01s
+[2018.10.18-16.10.52:352][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/GunSafety/Content/Developers/dacena/Collections/' took 0.01s
+[2018.10.18-16.10.52:352][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dacena/VRprojects/GunSafety/Content/Collections/' took 0.01s
+[2018.10.18-16.10.52:352][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.18-16.10.52:366][  0]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2572 classes and 603 folders.
+[2018.10.18-16.10.52:383][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.18-16.10.53:108][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.18-16.10.53:209][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.18-16.10.53:269][  0]LogSlate: Took 0.021952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.18-16.10.53:287][  0]LogSlate: Took 0.015379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.18-16.10.53:302][  0]LogSlate: Took 0.008505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.18-16.10.53:448][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.18-16.10.53:740][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.18-16.10.53:741][  0]LogLoad: (Engine Initialization) Total time: 67.59 seconds
+[2018.10.18-16.10.53:741][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.18-16.10.53:753][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-16.10.53:778][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.18-16.10.53:874][  2]LogAssetRegistry: Asset discovery search completed in 39.7367 seconds
+[2018.10.18-16.10.53:875][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.18-16.10.53:875][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.10.18-16.10.57:894][ 95]LogSlate: Took 0.020808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.18-16.13.16:973][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.13.23:821][594]LogSlate: Took 0.014382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.18-16.13.25:455][594]LogAIModule: Creating AISystem for world GunRange
+[2018.10.18-16.13.25:508][594]LogAssetEditorManager: Opening Asset editor for World /Game/GunRange.GunRange
+[2018.10.18-16.13.25:539][594]Cmd: MAP LOAD FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-16.13.25:540][594]LightingResults: New page: Lighting Build
+[2018.10.18-16.13.25:540][594]LoadErrors: New page: Loading map: GunRange.umap
+[2018.10.18-16.13.25:541][594]MapCheck: New page: Map Check
+[2018.10.18-16.13.25:541][594]LightingResults: New page: Lighting Build
+[2018.10.18-16.13.25:594][594]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-16.13.25:645][594]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-16.13.25:834][594]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 188.81ms to complete.
+[2018.10.18-16.13.25:835][594]LogFileHelpers: Loading map 'GunRange' took 0.296
+[2018.10.18-16.13.35:252][817]Cmd: SELECT NONE
+[2018.10.18-16.13.44:170][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.14.09:038][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dacena/Downloads/9mmBullet.fbx)
+[2018.10.18-16.14.09:213][923]LogFbx: Loading FBX Scene from ../../../../../../Users/dacena/Downloads/9mmBullet.fbx
+[2018.10.18-16.14.09:240][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-16.14.18:358][923]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.18-16.14.18:850][923]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2018.10.18-16.14.18:997][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.18:997][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.18:997][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.18:998][923]LogFbx: Warning: Triangulating static mesh Sphere
+[2018.10.18-16.14.19:465][923]LogStaticMesh: Building static mesh 9mmBullet...
+[2018.10.18-16.14.19:517][923]LogStaticMesh: Built static mesh [0.18s] /Game/HomemadeAssets/Mesh/9mmBullet.9mmBullet
+[2018.10.18-16.14.19:589][923]LogStaticMesh: Warning: 9mmBullet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.19:589][923]LogStaticMesh: Warning: 9mmBullet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.19:617][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.18-16.14.19:617][923]FBXImport: Warning: 9mmBullet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.19:617][923]FBXImport: Warning: 9mmBullet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.19:671][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dacena/Downloads/50calBullet.fbx)
+[2018.10.18-16.14.19:689][923]LogFbx: Loading FBX Scene from ../../../../../../Users/dacena/Downloads/50calBullet.fbx
+[2018.10.18-16.14.19:699][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-16.14.19:701][923]LogFbx: Warning: Triangulating static mesh Sphere
+[2018.10.18-16.14.19:836][923]LogStaticMesh: Building static mesh 50calBullet...
+[2018.10.18-16.14.19:847][923]LogStaticMesh: Built static mesh [0.03s] /Game/HomemadeAssets/Mesh/50calBullet.50calBullet
+[2018.10.18-16.14.19:912][923]LogStaticMesh: Warning: 50calBullet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.19:968][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.18-16.14.19:968][923]FBXImport: Warning: 50calBullet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.20:035][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dacena/Downloads/GunAndMagazine.fbx)
+[2018.10.18-16.14.20:050][923]LogFbx: Loading FBX Scene from ../../../../../../Users/dacena/Downloads/GunAndMagazine.fbx
+[2018.10.18-16.14.20:060][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-16.14.20:060][923]LogFbx: Warning: Triangulating static mesh Cylinder.003
+[2018.10.18-16.14.20:109][923]LogStaticMesh: Building static mesh GunAndMagazine_Cylinder_003...
+[2018.10.18-16.14.20:111][923]LogStaticMesh: Built static mesh [0.01s] /Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003.GunAndMagazine_Cylinder_003
+[2018.10.18-16.14.20:188][923]LogFbx: Warning: Triangulating static mesh Cylinder.002
+[2018.10.18-16.14.20:492][923]LogStaticMesh: Building static mesh GunAndMagazine_Cylinder_002...
+[2018.10.18-16.14.20:540][923]LogStaticMesh: Built static mesh [0.08s] /Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002.GunAndMagazine_Cylinder_002
+[2018.10.18-16.14.20:566][923]LogStaticMesh: Warning: GunAndMagazine_Cylinder_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.20:583][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.18-16.14.20:583][923]FBXImport: Warning: GunAndMagazine_Cylinder_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.20:583][923]FBXImport: Error: No polygon were found on mesh  'Cube' 
+[2018.10.18-16.14.21:268][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dacena/Downloads/MainSection_Vrs_001.fbx)
+[2018.10.18-16.14.21:887][923]LogFbx: Loading FBX Scene from ../../../../../../Users/dacena/Downloads/MainSection_Vrs_001.fbx
+[2018.10.18-16.14.22:286][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-16.14.22:313][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_aiStandardSurface28, compiling. 
+[2018.10.18-16.14.22:326][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.22:618][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.22:915][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base...
+[2018.10.18-16.14.23:296][923]LogStaticMesh: Built static mesh [0.41s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base
+[2018.10.18-16.14.23:368][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.23:368][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.23:432][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_Machine_Paint_V001_CRT_SH1, compiling. 
+[2018.10.18-16.14.23:888][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT...
+[2018.10.18-16.14.24:357][923]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.18-16.14.24:357][923]LogStaticMesh: Built static mesh [0.47s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT
+[2018.10.18-16.14.24:437][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.24:437][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.24:517][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_Machine_Paint_V001_Print_PrintShape1, compiling. 
+[2018.10.18-16.14.25:533][923]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-16.14.25:533][923]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.18-16.14.26:248][923]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-16.14.26:248][923]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-16.14.26:248][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print...
+[2018.10.18-16.14.28:442][923]LogStaticMesh: Built static mesh [2.21s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print
+[2018.10.18-16.14.28:756][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.28:756][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.28:756][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.28:819][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_aiStandardSurface31, compiling. 
+[2018.10.18-16.14.28:835][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.28:835][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.28:835][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.29:389][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob...
+[2018.10.18-16.14.29:948][923]LogStaticMesh: Built static mesh [0.56s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob
+[2018.10.18-16.14.30:084][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.30:084][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.30:136][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_aiStandardSurface29, compiling. 
+[2018.10.18-16.14.30:149][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.30:149][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.30:703][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support...
+[2018.10.18-16.14.31:195][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.31:195][923]LogStaticMesh: Built static mesh [0.54s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support
+[2018.10.18-16.14.31:295][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.31:295][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.31:352][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_Machine_Paint_V001_supportedSH1, compiling. 
+[2018.10.18-16.14.31:369][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.32:769][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.32:769][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.32:769][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported...
+[2018.10.18-16.14.34:684][923]LogStaticMesh: Built static mesh [1.97s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported
+[2018.10.18-16.14.34:895][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.34:895][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.34:936][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_Machine_Paint_V001_PanelSH1, compiling. 
+[2018.10.18-16.14.34:949][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.34:949][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.34:949][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.35:478][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL...
+[2018.10.18-16.14.36:050][923]LogStaticMesh: Built static mesh [0.60s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL
+[2018.10.18-16.14.36:141][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.36:141][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.36:141][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.36:211][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_aiStandardSurface30, compiling. 
+[2018.10.18-16.14.36:224][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.36:224][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.37:138][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.37:138][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter...
+[2018.10.18-16.14.38:080][923]LogStaticMesh: Built static mesh [0.97s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter
+[2018.10.18-16.14.38:240][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.38:240][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.38:266][923]LogMaterial: Display: Missing cached shader map for material Kemet_VR_Model_0002_aiStandardSurface32, compiling. 
+[2018.10.18-16.14.38:284][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.38:468][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.14.38:468][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.14.38:468][923]LogStaticMesh: Building static mesh MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner...
+[2018.10.18-16.14.38:703][923]LogStaticMesh: Built static mesh [0.23s] /Game/HomemadeAssets/Mesh/MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner.MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner
+[2018.10.18-16.14.38:766][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.10.18-16.14.38:766][923]LogStaticMesh: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.18-16.14.38:844][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Base_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_CRT_CRT has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Print_Print has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Knob_Knob has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_bk_Support_bk_Support has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Supported_Supported has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:845][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_PaneL_PaneL has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:846][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:846][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_BasePrinter_BasePrinter has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:846][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.10.18-16.14.38:846][923]FBXImport: Warning: MainSection_Vrs_001_Kemet_VR_Model_0002_Machine_Paint_V001_Liner_Liner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.18-16.14.38:934][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/dacena/Downloads/TableCorrect.fbx)
+[2018.10.18-16.14.38:950][923]LogFbx: Loading FBX Scene from ../../../../../../Users/dacena/Downloads/TableCorrect.fbx
+[2018.10.18-16.14.38:960][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-16.14.38:994][923]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2018.10.18-16.14.39:013][923]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.14.39:035][923]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2018.10.18-16.14.39:084][923]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2018.10.18-16.14.39:125][923]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2018.10.18-16.14.39:173][923]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2018.10.18-16.14.39:215][923]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2018.10.18-16.14.39:273][923]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2018.10.18-16.14.39:309][923]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2018.10.18-16.14.39:328][923]LogFbx: Warning: Triangulating static mesh Cube
+[2018.10.18-16.14.39:398][923]LogStaticMesh: Building static mesh TableCorrect_Cube...
+[2018.10.18-16.14.39:405][923]LogStaticMesh: Built static mesh [0.02s] /Game/HomemadeAssets/Mesh/TableCorrect_Cube.TableCorrect_Cube
+[2018.10.18-16.14.39:441][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.18-16.14.39:967][926]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.10.18-16.14.40:550][926]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.10.18-16.14.41:237][934]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.10.18-16.14.42:203][953]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.10.18-16.14.42:483][958]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.10.18-16.14.43:745][981]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.10.18-16.14.44:806][  2]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.10.18-16.14.44:868][  3]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.10.18-16.14.45:629][ 18]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.10.18-16.14.46:487][ 33]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.10.18-16.14.47:484][ 45]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.18-16.14.47:867][ 54]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.10.18-16.14.47:923][ 55]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.18-16.14.48:286][ 64]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-16.14.48:295][ 64]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-16.14.49:587][ 84]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-16.14.49:770][ 87]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.18-16.14.49:797][ 88]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-16.14.51:431][101]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-16.15.05:346][200]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.15.16:375][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_008" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_008.uasset" SILENT=true
+[2018.10.18-16.15.16:446][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_008D98E92C246C22E25431F5784E2625BBF.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_008.uasset'
+[2018.10.18-16.15.16:509][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material.uasset" SILENT=true
+[2018.10.18-16.15.16:537][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material70FEEF5F4AC6F2C00E140CAB2AAACDE0.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material.uasset'
+[2018.10.18-16.15.16:600][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_001" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_001.uasset" SILENT=true
+[2018.10.18-16.15.16:644][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_0011F3321634D2AA61A193D408DD0CCAD40.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_001.uasset'
+[2018.10.18-16.15.16:700][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_002" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_002.uasset" SILENT=true
+[2018.10.18-16.15.16:727][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_002DA055A7E4C8DC85887AB1C9B38FC2DE3.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_002.uasset'
+[2018.10.18-16.15.16:779][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_003" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_003.uasset" SILENT=true
+[2018.10.18-16.15.16:801][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_003C75C9043479DD7275E9F06B079B63493.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_003.uasset'
+[2018.10.18-16.15.16:854][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_004" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_004.uasset" SILENT=true
+[2018.10.18-16.15.16:899][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_004C06BD4ED405AC4DD3EC2208030823568.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_004.uasset'
+[2018.10.18-16.15.16:961][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_005" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_005.uasset" SILENT=true
+[2018.10.18-16.15.16:988][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_00595C3AF2646D9D632C8C3F286F0C69CA1.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_005.uasset'
+[2018.10.18-16.15.17:042][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_006" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_006.uasset" SILENT=true
+[2018.10.18-16.15.17:064][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_0061C10F11F4742EC77CB10C59A18C8593C.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_006.uasset'
+[2018.10.18-16.15.17:116][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/Material_007" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_007.uasset" SILENT=true
+[2018.10.18-16.15.17:138][639]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material_007D44081A34E2DEFCEE3AE998D61AD3F44.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/Material_007.uasset'
+[2018.10.18-16.15.21:632][662]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.15.23:078][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GunRange" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.18-16.15.23:266][675]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunRange9B17825147C72EFC8F85A496B80E8341.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange.umap'
+[2018.10.18-16.15.23:308][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GunRange_BuiltData" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange_BuiltData.uasset" SILENT=true
+[2018.10.18-16.15.23:416][675]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunRange_BuiltData4B113D0B42B4F68F5E6534A435B172D8.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange_BuiltData.uasset'
+[2018.10.18-16.15.41:932][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.15.42:342][979]LogActorFactory: Actor Factory created TableCorrect_Cube
+[2018.10.18-16.15.44:542][ 29]LogActorFactory: Actor Factory created TableCorrect_Cube
+[2018.10.18-16.15.47:258][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.16.30:180][354]LogSlate: Took 0.014185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.18-16.19.05:100][828]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\dacena\Downloads\RUST_3d_Low1.FBX)
+[2018.10.18-16.19.05:145][828]LogFbx: Loading FBX Scene from C:\Users\dacena\Downloads\RUST_3d_Low1.FBX
+[2018.10.18-16.19.05:424][828]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.18-16.19.08:286][828]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.18-16.19.08:372][828]LogMaterial: Display: Missing cached shader map for material Material__48, compiling. 
+[2018.10.18-16.19.08:386][828]LogFbx: Warning: Triangulating static mesh RUST_3d_Low
+[2018.10.18-16.19.22:174][828]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.19.22:174][828]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.19.22:174][828]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.19.24:186][828]LogStaticMesh: Building static mesh RUST_3d_Low1...
+[2018.10.18-16.19.27:958][828]LogStaticMesh: Built static mesh [3.77s] /Game/HomemadeAssets/Mesh/RUST_3d_Low1.RUST_3d_Low1
+[2018.10.18-16.20.19:041][ 95]LogAssetTools: Warning: Failed to import 'C:\Users\dacena\VRprojects\ArchVis\Content\ArchVis\Mesh\SM_Door.uasset'. Unknown extension 'uasset'.
+[2018.10.18-16.21.05:608][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.21.05:727][341]LogLinker: Warning: Can't find file '/Game/ArchVis/Materials/M_Door_MAT_Inst'
+[2018.10.18-16.21.05:728][341]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Materials/M_Door_MAT_Inst' while loading ../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Door.uasset.
+[2018.10.18-16.21.05:728][341]LoadErrors: Error: /Game/HomemadeAssets/Mesh/SM_Door : Can't find file for asset. /Game/ArchVis/Materials/M_Door_MAT_Inst
+[2018.10.18-16.21.05:729][341]LogLinker: Warning: Can't find file '/Game/ArchVis/Materials/M_Door_MAT_Inst'
+[2018.10.18-16.21.05:729][341]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Materials/M_Door_MAT_Inst' while loading ../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Door.uasset.
+[2018.10.18-16.21.05:730][341]LogLinker: Warning: Can't find file '/Game/ArchVis/Materials/M_Door_MAT_Inst'
+[2018.10.18-16.21.05:730][341]LoadErrors: Failed to load /Game/ArchVis/Materials/M_Door_MAT_Inst.M_Door_MAT_Inst Referenced by SM_Door
+[2018.10.18-16.21.05:731][341]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Materials/M_Door_MAT_Inst' while loading NULL.
+[2018.10.18-16.21.05:866][341]LogActorFactory: Actor Factory created SM_Door
+[2018.10.18-16.21.07:487][379]LogActorFactory: Actor Factory created SM_Door
+[2018.10.18-16.21.10:717][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.21.22:414][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.10.18-16.21.41:893][103]Cmd: SELECT NONE
+[2018.10.18-16.21.43:168][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.10.18-16.21.53:030][353]Cmd: SELECT NONE
+[2018.10.18-16.22.26:056][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.22.29:334][216]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.10.18-16.22.46:740][598]Cmd: SELECT NONE
+[2018.10.18-16.23.00:441][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.23.37:130][940]Cmd: TRANSACTION UNDO
+[2018.10.18-16.23.37:130][940]LogEditorTransaction: Undo Move Actors
+[2018.10.18-16.23.37:203][940]LogActorComponent: ~FComponentReregisterContext: (/Game/GunRange.GunRange:PersistentLevel.BoxBrush_13.BrushComponent0) Component already registered.
+[2018.10.18-16.23.37:204][940]LogActorComponent: ~FComponentReregisterContext: (/Game/GunRange.GunRange:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.10.18-16.23.37:288][940]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2018.10.18-16.23.37:288][940]LogGeometryMode: Warning: Unable to resolve BoxBrush6 Brush in new BSP, see above
+[2018.10.18-16.23.37:288][940]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.10.18-16.23.43:615][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.23.55:167][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.24.13:688][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.24.28:574][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.24.38:445][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.24.41:327][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.24.46:791][211]Cmd: SELECT NONE
+[2018.10.18-16.24.47:630][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.10.18-16.24.50:691][512]LogEditorViewport: Clicking Background
+[2018.10.18-16.24.51:164][549]Cmd: SELECT NONE
+[2018.10.18-16.24.53:355][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.24.54:820][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.25.20:235][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.25.20:466][552]LogActorFactory: Actor Factory created RUST_3d_Low1
+[2018.10.18-16.25.21:216][568]LogActorFactory: Actor Factory created RUST_3d_Low1
+[2018.10.18-16.25.24:526][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.25.54:625][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GunRange" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/GunRange_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.18-16.25.54:728][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunRange_Auto133F38FF14303BEE4606809B34C2CDF74.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/GunRange_Auto1.umap'
+[2018.10.18-16.25.54:752][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GunRange' took 0.237
+[2018.10.18-16.25.54:753][797]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.237
+[2018.10.18-16.25.54:758][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/RUST_3d_Low1] ([1] browsable assets)...
+[2018.10.18-16.25.54:815][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/HomemadeAssets/Mesh/RUST_3d_Low1.RUST_3d_Low1]
+[2018.10.18-16.25.54:816][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/RUST_3d_Low1]
+[2018.10.18-16.25.55:076][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/RUST_3d_Low1_Auto1481BF93A4281319A31798191F1F19E7E.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/RUST_3d_Low1_Auto1.uasset'
+[2018.10.18-16.25.55:083][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/9mmBullet] ([1] browsable assets)...
+[2018.10.18-16.25.55:127][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/HomemadeAssets/Mesh/9mmBullet.9mmBullet]
+[2018.10.18-16.25.55:127][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/9mmBullet]
+[2018.10.18-16.25.55:154][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/9mmBullet_Auto19747D9744019E56EC5F5379D139CB068.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/9mmBullet_Auto1.uasset'
+[2018.10.18-16.25.55:160][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/50calBullet] ([1] browsable assets)...
+[2018.10.18-16.25.55:203][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/HomemadeAssets/Mesh/50calBullet.50calBullet]
+[2018.10.18-16.25.55:203][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/50calBullet]
+[2018.10.18-16.25.55:243][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/50calBullet_Auto138FE3ECB4C56241D98238DA4239C4286.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/50calBullet_Auto1.uasset'
+[2018.10.18-16.25.55:253][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003] ([1] browsable assets)...
+[2018.10.18-16.25.55:307][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003.GunAndMagazine_Cylinder_003]
+[2018.10.18-16.25.55:307][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003]
+[2018.10.18-16.25.55:328][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunAndMagazine_Cylinder_003_AutoE158EAF34681B3819B4EB29ADE054A77.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003_Auto1.uasset'
+[2018.10.18-16.25.55:332][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002] ([1] browsable assets)...
+[2018.10.18-16.25.55:371][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002.GunAndMagazine_Cylinder_002]
+[2018.10.18-16.25.55:371][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002]
+[2018.10.18-16.25.55:393][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunAndMagazine_Cylinder_002_AutoD7883B85401003171360D18F8090A7FC.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002_Auto1.uasset'
+[2018.10.18-16.25.55:397][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/TableCorrect_Cube] ([1] browsable assets)...
+[2018.10.18-16.25.55:438][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/HomemadeAssets/Mesh/TableCorrect_Cube.TableCorrect_Cube]
+[2018.10.18-16.25.55:438][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/TableCorrect_Cube]
+[2018.10.18-16.25.55:461][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/TableCorrect_Cube_Auto176D1B7264C907B0FD8DD8E94372338AC.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/TableCorrect_Cube_Auto1.uasset'
+[2018.10.18-16.25.55:465][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HomemadeAssets/Mesh/Material__48] ([1] browsable assets)...
+[2018.10.18-16.25.55:506][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/HomemadeAssets/Mesh/Material__48.Material__48]
+[2018.10.18-16.25.55:506][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomemadeAssets/Mesh/Material__48]
+[2018.10.18-16.25.55:542][797]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Material__48_Auto185B7B069450DF182002FDBB0EDEFEE9A.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/Autosaves/Game/HomemadeAssets/Mesh/Material__48_Auto1.uasset'
+[2018.10.18-16.25.55:546][797]LogFileHelpers: Auto-saving content packages took 0.793
+[2018.10.18-16.26.24:032][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dacena\Downloads\RUST_3d_Low1_Bump.jpg)
+[2018.10.18-16.26.24:531][888]LogTexture: Display: Building textures: RUST_3d_Low1_Bump (AutoDXT, 4096X4096)
+[2018.10.18-16.26.25:812][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.26.28:876][ 49]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Bump_Mat, compiling. 
+[2018.10.18-16.26.28:938][ 49]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.26.28:938][ 49]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.26.28:938][ 49]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.26.36:045][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.26.36:174][236]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dacena\Downloads\RUST_3d_Low1_Difuse.jpg)
+[2018.10.18-16.26.36:878][236]LogTexture: Display: Building textures: RUST_3d_Low1_Difuse (AutoDXT, 4096X4096)
+[2018.10.18-16.26.42:821][342]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Difuse_Mat, compiling. 
+[2018.10.18-16.26.42:839][342]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.26.42:839][342]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.26.42:839][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.26.54:951][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dacena\Downloads\RUST_3d_Low1_Normal.jpg)
+[2018.10.18-16.26.55:813][494]LogTexture: Display: Building textures: RUST_3d_Low1_Normal (BC5, 4096X4096)
+[2018.10.18-16.26.56:839][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.00:255][676]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Mat, compiling. 
+[2018.10.18-16.27.00:286][676]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.27.00:286][676]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.27.00:286][676]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.27.03:042][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.07:033][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.17:064][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.20:394][219]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.27.20:403][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.21:713][219]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Bump_Mat, compiling. 
+[2018.10.18-16.27.21:726][219]LogMaterial: Warning: /Game/HomemadeAssets/Mesh/RUST_3d_Low1_Bump_Mat.RUST_3d_Low1_Bump_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.18-16.27.21:726][219]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.18-16.27.24:450][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.26:018][249]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.27.26:026][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.26:170][249]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Mat, compiling. 
+[2018.10.18-16.27.26:171][249]LogMaterial: Warning: /Game/HomemadeAssets/Mesh/RUST_3d_Low1_Mat.RUST_3d_Low1_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.18-16.27.26:171][249]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.18-16.27.28:016][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.30:489][276]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.27.30:498][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.30:620][276]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Difuse_Mat, compiling. 
+[2018.10.18-16.27.30:621][276]LogMaterial: Warning: /Game/HomemadeAssets/Mesh/RUST_3d_Low1_Difuse_Mat.RUST_3d_Low1_Difuse_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.18-16.27.30:621][276]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.18-16.27.34:607][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.38:845][384]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.27.38:855][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.38:867][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.39:619][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.41:368][398]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.27.41:377][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.42:294][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.44:030][412]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.27.44:038][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.44:051][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.27.44:587][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.27.54:943][733]LogMetaData: Removing '/Game/HomemadeAssets/Mesh/SM_Rusty.SM_Rusty' ref from Metadata '/Game/HomemadeAssets/Mesh/RUST_3d_Low1.PackageMetaData'
+[2018.10.18-16.27.55:032][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/SM_Rusty" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Rusty.uasset" SILENT=true
+[2018.10.18-16.27.55:269][733]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/SM_Rusty802D1CC0478F62381620C5907D86E032.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Rusty.uasset'
+[2018.10.18-16.28.07:285][864]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dacena\Downloads\RUST_3d_Low1_Difuse.jpg)
+[2018.10.18-16.28.07:923][864]LogTexture: Display: Building textures: RUST_3d_Low1_Difuse (AutoDXT, 4096X4096)
+[2018.10.18-16.28.13:998][  2]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Difuse_Mat, compiling. 
+[2018.10.18-16.28.14:034][  3]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.28.14:034][  3]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.28.14:034][  3]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.28.19:371][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.28.21:685][136]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.28.21:817][136]LogMaterial: Display: Missing cached shader map for material RUST_3d_Low1_Difuse_Mat, compiling. 
+[2018.10.18-16.28.21:817][136]LogMaterial: Warning: /Game/HomemadeAssets/Materials/RUST_3d_Low1_Difuse_Mat.RUST_3d_Low1_Difuse_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.18-16.28.21:818][136]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.18-16.28.25:534][167]Cmd: TRANSACTION UNDO
+[2018.10.18-16.28.25:534][167]LogEditorTransaction: Undo Create Actors
+[2018.10.18-16.28.32:931][334]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\dacena\Downloads\RUST_3d_Low1_Difuse.jpg)
+[2018.10.18-16.28.33:605][334]LogTexture: Display: Building textures: RUST_3d_Low1_Difuse (AutoDXT, 4096X4096)
+[2018.10.18-16.28.43:775][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Textures/T_Rusty" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/T_Rusty.uasset" SILENT=true
+[2018.10.18-16.28.45:322][444]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/T_Rusty08BCBBE64C68A9A81A7801A891EA928A.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/T_Rusty.uasset'
+[2018.10.18-16.28.49:724][477]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.28.52:464][571]LogMaterial: Display: Missing cached shader map for material T_Rusty_Mat, compiling. 
+[2018.10.18-16.28.52:479][571]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.18-16.28.52:479][571]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-16.28.52:479][571]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-16.28.56:428][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.29.02:184][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Textures/M_Rusty" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/M_Rusty.uasset" SILENT=true
+[2018.10.18-16.29.02:209][776]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/M_Rusty04915BC240183D1FE422798750377B90.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/M_Rusty.uasset'
+[2018.10.18-16.29.06:402][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/M_Rusty" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/M_Rusty.uasset" SILENT=true
+[2018.10.18-16.29.06:423][ 65]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/M_Rusty88418E7B4C09109BF0CF80B7796DF12C.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/M_Rusty.uasset'
+[2018.10.18-16.29.16:800][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Textures/M_WoodFloor" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/M_WoodFloor.uasset" SILENT=true
+[2018.10.18-16.29.16:826][233]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/M_WoodFloor73C085144276563E0F8DCCBDCC08B549.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/M_WoodFloor.uasset'
+[2018.10.18-16.29.16:841][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Textures/T_WoodFloor_Mat" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/T_WoodFloor_Mat.uasset" SILENT=true
+[2018.10.18-16.29.16:861][233]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/T_WoodFloor_Mat9B2C6D2D4AEF0F711A57FA9FDF73EE5E.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/T_WoodFloor_Mat.uasset'
+[2018.10.18-16.29.19:806][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/M_WoodFloor" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/M_WoodFloor.uasset" SILENT=true
+[2018.10.18-16.29.19:825][450]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/M_WoodFloor612DECD2429D8117B5C1F6B87D157C71.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/M_WoodFloor.uasset'
+[2018.10.18-16.29.19:965][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Textures/T_WoodFloor_Mat" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/T_WoodFloor_Mat.uasset" SILENT=true
+[2018.10.18-16.29.19:980][450]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/T_WoodFloor_Mat5B64856E47A75D35865FDCB36988A9A2.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Textures/T_WoodFloor_Mat.uasset'
+[2018.10.18-16.29.36:201][793]Cmd: SELECT NONE
+[2018.10.18-16.29.42:884][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.29.54:205][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.29.55:604][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.30.06:862][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RUST_3d_Low1)
+[2018.10.18-16.30.37:891][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.30.46:484][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.30.48:476][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.31.00:410][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.31.27:691][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.31.28:988][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.31.29:130][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.31.29:591][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.31.49:078][639]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.10.18-16.31.52:021][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.31.52:798][695]LogEditorActor: Deleted Actor: CameraActor
+[2018.10.18-16.31.52:839][695]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.10.18-16.32.46:366][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.33.06:035][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.33.06:243][231]LogActorFactory: Actor Factory created GunAndMagazine_Cylinder_002
+[2018.10.18-16.33.07:666][260]LogActorFactory: Actor Factory created GunAndMagazine_Cylinder_002
+[2018.10.18-16.33.16:471][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.33.21:358][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.33.47:481][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.34.15:369][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.34.40:132][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.34.52:729][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.34.55:420][234]Cmd: SELECT NONE
+[2018.10.18-16.34.58:496][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GunAndMagazine_Cylinder_002)
+[2018.10.18-16.35.02:429][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.35.02:606][369]LogActorFactory: Actor Factory created GunAndMagazine_Cylinder_003
+[2018.10.18-16.35.02:615][369]LogActorFactory: Actor Factory created GunAndMagazine_Cylinder_003
+[2018.10.18-16.35.03:376][385]LogActorFactory: Actor Factory created GunAndMagazine_Cylinder_003
+[2018.10.18-16.35.05:421][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.35.33:614][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.35.35:691][623]Cmd: SELECT NONE
+[2018.10.18-16.35.42:303][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GunAndMagazine_Cylinder_003)
+[2018.10.18-16.36.01:755][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.36.02:386][874]LogActorFactory: Actor Factory created 9mmBullet
+[2018.10.18-16.36.03:320][894]LogActorFactory: Actor Factory created 9mmBullet
+[2018.10.18-16.36.05:858][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.36.28:378][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.36.28:872][294]LogActorFactory: Actor Factory created 50calBullet
+[2018.10.18-16.36.29:913][316]LogActorFactory: Actor Factory created 50calBullet
+[2018.10.18-16.36.31:163][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.36.42:121][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.36.43:230][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.36.57:453][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet)
+[2018.10.18-16.37.19:420][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GunAndMagazine_Cylinder_003)
+[2018.10.18-16.37.25:297][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GunAndMagazine_Cylinder_003)
+[2018.10.18-16.37.26:420][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GunAndMagazine_Cylinder_003)
+[2018.10.18-16.37.26:561][283]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.10.18-16.37.51:523][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.38.08:301][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.38.32:895][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.38.35:159][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.38.37:414][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.38.51:151][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.38.53:502][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.39.18:532][ 52]Cmd: SELECT NONE
+[2018.10.18-16.39.23:449][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.39.39:984][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GunAndMagazine_Cylinder_002)
+[2018.10.18-16.40.07:388][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.40.08:912][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet)
+[2018.10.18-16.40.10:427][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.40.34:778][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.40.54:003][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.40.55:437][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet)
+[2018.10.18-16.40.56:713][952]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.40.59:154][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GunAndMagazine_Cylinder_003)
+[2018.10.18-16.41.00:038][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GunAndMagazine_Cylinder_002)
+[2018.10.18-16.41.02:135][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.41.04:057][102]Cmd: SELECT NONE
+[2018.10.18-16.41.15:600][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.41.17:869][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet)
+[2018.10.18-16.41.23:268][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.41.28:684][657]Cmd: SELECT NONE
+[2018.10.18-16.41.29:957][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.41.31:014][708]Cmd: SELECT NONE
+[2018.10.18-16.41.32:407][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet)
+[2018.10.18-16.41.33:440][761]Cmd: DUPLICATE
+[2018.10.18-16.41.33:440][761]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.34:820][789]Cmd: DUPLICATE
+[2018.10.18-16.41.34:820][789]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.35:749][808]Cmd: DUPLICATE
+[2018.10.18-16.41.35:749][808]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.38:733][872]Cmd: DUPLICATE
+[2018.10.18-16.41.38:733][872]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.39:664][892]Cmd: DUPLICATE
+[2018.10.18-16.41.39:664][892]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.40:407][908]Cmd: DUPLICATE
+[2018.10.18-16.41.40:407][908]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.43:303][970]Cmd: DUPLICATE
+[2018.10.18-16.41.43:303][970]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.44:257][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet)
+[2018.10.18-16.41.44:982][  2]Cmd: DUPLICATE
+[2018.10.18-16.41.44:983][  2]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.45:586][ 14]Cmd: DUPLICATE
+[2018.10.18-16.41.45:586][ 14]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.46:063][ 22]Cmd: DUPLICATE
+[2018.10.18-16.41.46:063][ 22]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.46:394][ 29]Cmd: DUPLICATE
+[2018.10.18-16.41.46:394][ 29]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.46:709][ 35]Cmd: DUPLICATE
+[2018.10.18-16.41.46:709][ 35]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.47:141][ 44]Cmd: DUPLICATE
+[2018.10.18-16.41.47:142][ 44]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.47:709][ 56]Cmd: DUPLICATE
+[2018.10.18-16.41.47:710][ 56]Cmd: ACTOR DUPLICATE
+[2018.10.18-16.41.48:721][ 77]Cmd: SELECT NONE
+[2018.10.18-16.41.55:692][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet2)
+[2018.10.18-16.42.03:048][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet3)
+[2018.10.18-16.42.08:560][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet4)
+[2018.10.18-16.42.14:647][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet5)
+[2018.10.18-16.42.20:831][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet6)
+[2018.10.18-16.42.26:983][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet7)
+[2018.10.18-16.42.34:191][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (9mmBullet8)
+[2018.10.18-16.42.39:550][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.42.40:041][161]Cmd: SELECT NONE
+[2018.10.18-16.42.41:971][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet)
+[2018.10.18-16.42.42:876][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet2)
+[2018.10.18-16.43.34:109][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet3)
+[2018.10.18-16.43.39:941][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet5)
+[2018.10.18-16.43.51:111][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet6)
+[2018.10.18-16.44.00:189][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet7)
+[2018.10.18-16.44.06:189][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet8)
+[2018.10.18-16.44.12:834][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (50calBullet4)
+[2018.10.18-16.44.29:549][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCorrect_Cube)
+[2018.10.18-16.44.35:275][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.44.38:866][543]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.18-16.44.41:742][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.44.50:114][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/M_Rusty_W" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/M_Rusty_W.uasset" SILENT=true
+[2018.10.18-16.44.50:137][742]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/M_Rusty_W363954584509FEE9224E68B2DBEA5402.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/M_Rusty_W.uasset'
+[2018.10.18-16.44.50:279][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/SM_Rusty" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Rusty.uasset" SILENT=true
+[2018.10.18-16.44.50:527][742]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/SM_Rusty1F0470E04E0CCF5FD28BB989AD8E086F.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Rusty.uasset'
+[2018.10.18-16.44.53:620][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Materials/M_Rusty_W" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/M_Rusty_W.uasset" SILENT=true
+[2018.10.18-16.44.53:638][956]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/M_Rusty_W69D523EC44E4F6A44E57138B2E8B4A9B.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Materials/M_Rusty_W.uasset'
+[2018.10.18-16.44.53:781][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/SM_Rusty" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Rusty.uasset" SILENT=true
+[2018.10.18-16.44.54:027][956]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/SM_Rusty9A71DC4543E519BBBB0B0A83DA26C4F0.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/SM_Rusty.uasset'
+[2018.10.18-16.45.34:376][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-16.45.34:418][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GunRange" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.18-16.45.34:542][880]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunRange2D075C1A4EB35410195A9C939A73E2F6.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange.umap'
+[2018.10.18-16.45.34:585][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GunRange_BuiltData" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange_BuiltData.uasset" SILENT=true
+[2018.10.18-16.45.34:644][880]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunRange_BuiltData85B1506744832DC795EF5494A2699FE7.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/GunRange_BuiltData.uasset'
+[2018.10.18-16.49.16:413][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-16.53.51:962][230]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.18-16.53.54:733][239]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GunSafety
+[2018.10.18-16.53.54:733][239]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.18-16.53.54:733][239]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.10.18-16.53.54:733][239]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.18-16.53.54:733][239]LogTemp: BranchPath = SOC-SBABU-WR5/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = SOC-SBABU-WR5/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.18-16.53.55:058][240]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\dacena\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.18-16.55.41:602][196]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-16.55.41:605][196]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-16.56.29:654][995]LogSlate: Window 'New Project' being destroyed
+[2018.10.18-17.53.59:374][355]Cmd: SELECT NONE
+[2018.10.18-17.54.07:100][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-18.45.16:003][596]LogSlate: Window 'Save Content' being destroyed
+[2018.10.18-18.45.16:045][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/50calBullet" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/50calBullet.uasset" SILENT=true
+[2018.10.18-18.45.16:061][596]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/50calBullet3629EBC04A67BCE99AA15988ADDBEDCD.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/50calBullet.uasset'
+[2018.10.18-18.45.16:073][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/9mmBullet" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/9mmBullet.uasset" SILENT=true
+[2018.10.18-18.45.16:085][596]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/9mmBulletDC68348F4E7291C5ABD4868ABE074286.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/9mmBullet.uasset'
+[2018.10.18-18.45.16:117][596]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunAndMagazine_Cylinder_0029C9D5B4F4EB917343C9300853B519A1B.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_002.uasset'
+[2018.10.18-18.45.16:143][596]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/GunAndMagazine_Cylinder_0031A1957314EAD74950C45A38EAA90D1B5.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/GunAndMagazine_Cylinder_003.uasset'
+[2018.10.18-18.45.16:156][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomemadeAssets/Mesh/TableCorrect_Cube" FILE="../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/TableCorrect_Cube.uasset" SILENT=true
+[2018.10.18-18.45.16:171][596]LogSavePackage: Moving '../../../../../../Users/dacena/VRprojects/GunSafety/Saved/TableCorrect_Cube9F457A594F48F3BCA36B81BFE6AE7BB9.tmp' to '../../../../../../Users/dacena/VRprojects/GunSafety/Content/HomemadeAssets/Mesh/TableCorrect_Cube.uasset'
+[2018.10.18-18.45.16:409][596]LogSlate: Window 'GunSafety - Unreal Editor' being destroyed
+[2018.10.18-18.45.17:392][597]Cmd: QUIT_EDITOR
+[2018.10.18-18.45.17:777][597]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-18.45.18:128][597]LogExit: Preparing to exit.
+[2018.10.18-18.45.20:057][597]LogExit: Editor shut down
+[2018.10.18-18.45.20:088][597]LogExit: Transaction tracking system shut down
+[2018.10.18-18.45.23:371][597]LogExit: Object subsystem successfully closed.
+[2018.10.18-18.45.23:643][597]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.18-18.45.23:888][597]LogD3D11RHI: Shutdown
+[2018.10.18-18.45.23:888][597]LogD3D11RHI: CleanupD3DDevice
+[2018.10.18-18.45.24:029][597]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.18-18.45.25:618][597]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (616)
+[2018.10.18-18.45.25:618][597]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2018.10.18-18.45.25:618][597]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.18-18.45.25:618][597]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.10.18-18.45.25:618][597]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.10.18-18.45.25:826][597]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.10.18-18.45.25:826][597]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.10.18-18.45.25:826][597]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.10.18-18.45.25:841][597]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.10.18-18.45.25:857][597]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.18-18.45.25:865][597]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.18-18.45.25:916][597]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.18-18.45.25:941][597]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.18-18.45.25:948][597]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.18-18.45.25:948][597]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.18-18.45.25:948][597]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.18-18.45.25:948][597]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.18-18.45.25:948][597]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.18-18.45.25:948][597]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.18-18.45.25:952][597]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.18-18.45.25:974][597]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.18-18.45.25:974][597]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.18-18.45.25:974][597]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.18-18.45.25:993][597]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.18-18.45.25:993][597]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.18-18.45.26:016][597]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.18-18.45.26:016][597]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.18-18.45.26:103][597]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.18-18.45.26:103][597]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.18-18.45.26:103][597]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.18-18.45.26:168][597]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.18-18.45.26:243][597]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.18-18.45.26:317][597]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.18-18.45.26:377][597]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.18-18.45.26:406][597]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.18-18.45.26:406][597]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.18-18.45.26:406][597]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.18-18.45.26:407][597]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.18-18.45.26:407][597]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.18-18.45.26:407][597]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.10.18-18.45.26:918][597]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.10.18-18.45.26:918][597]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.10.18-18.45.26:918][597]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.10.18-18.45.26:918][597]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.10.18-18.45.26:918][597]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.10.18-18.45.26:933][597]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.10.18-18.45.26:943][597]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.10.18-18.45.26:962][597]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.10.18-18.45.26:971][597]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.10.18-18.45.26:971][597]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.10.18-18.45.26:971][597]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.10.18-18.45.26:976][597]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.10.18-18.45.26:976][597]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.10.18-18.45.26:979][597]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.10.18-18.45.26:980][597]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.10.18-18.45.26:981][597]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.10.18-18.45.26:981][597]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.10.18-18.45.26:989][597]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.10.18-18.45.27:003][597]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.10.18-18.45.27:007][597]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.10.18-18.45.27:013][597]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.10.18-18.45.27:026][597]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.10.18-18.45.27:092][597]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.10.18-18.45.27:113][597]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.10.18-18.45.27:121][597]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.10.18-18.45.27:138][597]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.10.18-18.45.27:138][597]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.10.18-18.45.27:138][597]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.10.18-18.45.27:139][597]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.10.18-18.45.27:177][597]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.10.18-18.45.27:177][597]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.10.18-18.45.27:182][597]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.10.18-18.45.27:211][597]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.10.18-18.45.27:223][597]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.10.18-18.45.27:224][597]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.10.18-18.45.27:224][597]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.10.18-18.45.27:227][597]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.10.18-18.45.27:240][597]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.10.18-18.45.27:240][597]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.10.18-18.45.27:250][597]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.10.18-18.45.27:252][597]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.10.18-18.45.27:252][597]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.10.18-18.45.27:262][597]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.10.18-18.45.27:273][597]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.10.18-18.45.27:273][597]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.10.18-18.45.27:273][597]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.10.18-18.45.27:273][597]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.10.18-18.45.27:273][597]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.10.18-18.45.27:273][597]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.10.18-18.45.27:285][597]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.10.18-18.45.27:295][597]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.10.18-18.45.27:302][597]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.10.18-18.45.27:303][597]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.10.18-18.45.27:303][597]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.10.18-18.45.27:353][597]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.10.18-18.45.27:362][597]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.10.18-18.45.27:362][597]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.10.18-18.45.27:362][597]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.10.18-18.45.27:371][597]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.10.18-18.45.27:371][597]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.10.18-18.45.27:371][597]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.10.18-18.45.27:381][597]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.10.18-18.45.27:382][597]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.10.18-18.45.27:382][597]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.10.18-18.45.27:382][597]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.10.18-18.45.27:382][597]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.10.18-18.45.27:382][597]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.10.18-18.45.27:382][597]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.10.18-18.45.27:413][597]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.10.18-18.45.27:413][597]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.10.18-18.45.27:413][597]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.10.18-18.45.27:414][597]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.10.18-18.45.27:433][597]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.18-18.45.27:433][597]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.18-18.45.27:433][597]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.18-18.45.27:433][597]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.18-18.45.27:449][597]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.18-18.45.27:450][597]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.18-18.45.27:450][597]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.18-18.45.27:450][597]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.18-18.45.27:450][597]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.18-18.45.27:450][597]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.18-18.45.27:450][597]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.18-18.45.27:454][597]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.18-18.45.27:466][597]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.18-18.45.27:466][597]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.18-18.45.27:489][597]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.18-18.45.27:496][597]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.18-18.45.27:496][597]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.18-18.45.27:502][597]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.18-18.45.27:506][597]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.18-18.45.27:506][597]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.18-18.45.27:506][597]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.18-18.45.27:506][597]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.18-18.45.27:506][597]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.18-18.45.27:513][597]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.18-18.45.27:529][597]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.18-18.45.27:562][597]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.18-18.45.27:579][597]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.18-18.45.27:580][597]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.18-18.45.27:580][597]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.18-18.45.27:580][597]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.18-18.45.27:580][597]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.18-18.45.27:605][597]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.18-18.45.27:616][597]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.18-18.45.27:616][597]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.18-18.45.27:616][597]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.18-18.45.27:616][597]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.18-18.45.27:628][597]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.18-18.45.27:628][597]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.18-18.45.27:628][597]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.18-18.45.27:643][597]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.18-18.45.27:643][597]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.18-18.45.27:744][597]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.18-18.45.27:853][597]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.18-18.45.27:853][597]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.18-18.45.27:859][597]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.18-18.45.27:859][597]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.18-18.45.27:859][597]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.18-18.45.27:859][597]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.18-18.45.27:867][597]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.18-18.45.27:881][597]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.18-18.45.27:894][597]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.18-18.45.27:894][597]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.18-18.45.27:900][597]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.18-18.45.27:916][597]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.18-18.45.27:935][597]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.18-18.45.27:939][597]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.18-18.45.27:939][597]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.18-18.45.27:939][597]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.18-18.45.27:947][597]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.18-18.45.27:956][597]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.18-18.45.27:964][597]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.18-18.45.27:971][597]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.18-18.45.27:971][597]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.18-18.45.27:971][597]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.18-18.45.27:990][597]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.18-18.45.27:990][597]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.18-18.45.27:990][597]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.18-18.45.27:990][597]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.18-18.45.27:999][597]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.18-18.45.28:008][597]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.18-18.45.28:008][597]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.18-18.45.28:041][597]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.18-18.45.28:047][597]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.18-18.45.28:069][597]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.18-18.45.28:069][597]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.18-18.45.28:080][597]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.18-18.45.28:107][597]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.18-18.45.28:155][597]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.18-18.45.28:155][597]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.18-18.45.28:183][597]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.18-18.45.28:183][597]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.18-18.45.28:222][597]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.18-18.45.28:234][597]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.18-18.45.28:239][597]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.18-18.45.28:259][597]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.18-18.45.28:259][597]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.18-18.45.28:262][597]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.18-18.45.28:284][597]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.18-18.45.28:284][597]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.18-18.45.28:300][597]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.18-18.45.28:305][597]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.18-18.45.28:306][597]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.18-18.45.28:390][597]LogDerivedDataCache: Shutdown
+[2018.10.18-18.45.28:390][597]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.18-18.45.28:390][597]LogXGEController: Cleaning working directory: C:/Users/dacena/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.18-18.45.28:398][597]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.18-18.45.28:398][597]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.18-18.45.28:405][597]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.18-18.45.28:416][597]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.18-18.45.28:427][597]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.18-18.45.28:427][597]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.18-18.45.28:441][597]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.18-18.45.28:441][597]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.18-18.45.28:441][597]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.18-18.45.28:442][597]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.18-18.45.28:447][597]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.18-18.45.28:462][597]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.18-18.45.28:476][597]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.18-18.45.28:482][597]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.18-18.45.28:482][597]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.18-18.45.28:498][597]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.18-18.45.28:498][597]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.18-18.45.28:635][597]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.18-18.45.28:636][597]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.18-18.45.28:636][597]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.18-18.45.28:636][597]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.18-18.45.28:641][597]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.18-18.45.28:642][597]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.18-18.45.28:642][597]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.18-18.45.28:642][597]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.18-18.45.28:642][597]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.18-18.45.28:642][597]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.18-18.45.28:642][597]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.18-18.45.28:646][597]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.18-18.45.28:646][597]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.18-18.45.28:646][597]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.18-18.45.28:660][597]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.18-18.45.28:661][597]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.18-18.45.28:661][597]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.18-18.45.28:661][597]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.18-18.45.28:674][597]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.18-18.45.28:696][597]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.18-18.45.28:748][597]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.18-18.45.28:760][597]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.18-18.45.28:760][597]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B39B72B25-473D-2382-CE61-BF86B58E0769%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=550f45374593989495581b89375c7239%7C22e0618366684d28a72953957cd44439%7C08ad66ac-69aa-4a51-8a5f-9b2c38114cfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.18-18.45.28:833][597]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.18-18.45.28:869][597]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.18-18.45.28:869][597]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.18-18.45.28:869][597]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.18-18.45.28:870][597]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.18-18.45.28:870][597]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.18-18.45.28:870][597]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.18-18.45.28:870][597]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.18-18.45.28:870][597]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.18-18.45.28:870][597]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.18-18.45.28:910][597]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.18-18.45.28:910][597]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.18-18.45.28:910][597]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.18-18.45.28:934][597]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.18-18.45.28:934][597]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.18-18.45.28:950][597]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.18-18.45.28:950][597]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.18-18.45.28:950][597]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.18-18.45.28:950][597]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.18-18.45.29:003][597]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.18-18.45.29:017][597]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.18-18.45.29:017][597]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.18-18.45.29:028][597]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.18-18.45.29:028][597]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.18-18.45.29:028][597]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.18-18.45.29:028][597]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.18-18.45.29:040][597]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.18-18.45.29:040][597]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.18-18.45.29:044][597]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.18-18.45.29:044][597]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.18-18.45.29:074][597]LogExit: Exiting.
+[2018.10.18-18.45.29:245][597]Log file closed, 10/18/18 14:45:29
