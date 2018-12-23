@@ -6,4 +6,4 @@
 - Blake Washburn
 - Justin Xie
 - Noah Williams
-- Sean Brown
+- ~~Sean Brown~~
